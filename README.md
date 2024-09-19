@@ -19,8 +19,8 @@ This is a simple project that will demonstrate automated testing using Selenium 
 Then, just run the tests using ``tests/test_api_integration.py`` :)
 
 
-Additionally
 Resources:
+(sql)
 
 #### 7. **Push to GitHub:**
    - Add, commit, and push your code to the repository.

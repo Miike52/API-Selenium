@@ -1,9 +1,0 @@
-#### 7. **Push to GitHub:**
-   - Add, commit, and push your code to the repository.
-
-```bash
-git add .
-git commit -m "Initial commit: API and Selenium test examples"
-git push origin main
-
-work in progress

@@ -1,0 +1,6 @@
+{
+  "name": "Test User",
+  "email": "testuser@example.com",
+  "message": "This is only a test message."
+}
+"__we're storing some sample data here that we'll use later on for API requests "

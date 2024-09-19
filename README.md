@@ -1,5 +1,5 @@
 # API-Selenium
-Combining API and Selenium for Frontend / Backend validation 
+Combining API and Selenium for Frontend / Backend validation.
 
 ## Overview
 This is a simple project that will demonstrate automated testing using Selenium for browser automation, and API testing using the `requests` library.
